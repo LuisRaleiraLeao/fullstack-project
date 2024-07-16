@@ -1,0 +1,8 @@
+{
+  "name": "fullstack-project",
+  "version": "1.0.0",
+  "scripts": {
+    "json-server": "json-server --watch data.json --port 5000"
+  },
+  "dependencies": {}
+}
